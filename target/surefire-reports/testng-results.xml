@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63642" started-at="2021-07-04T18:12:49Z" finished-at="2021-07-04T18:13:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63642" started-at="2021-07-04T18:12:49Z" finished-at="2021-07-04T18:13:53Z">
+      <class name="GoIbibo.GoIbibo.Searching">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:GoIbibo.GoIbibo.Searching@6d8a00e3]" name="beforeClass" is-config="true" duration-ms="16628" started-at="2021-07-04T18:12:49Z" finished-at="2021-07-04T18:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testForGoibibo()[pri:0, instance:GoIbibo.GoIbibo.Searching@6d8a00e3]" name="testForGoibibo" duration-ms="45878" started-at="2021-07-04T18:13:06Z" finished-at="2021-07-04T18:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForGoibibo -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:GoIbibo.GoIbibo.Searching@6d8a00e3]" name="afterClass" is-config="true" duration-ms="1055" started-at="2021-07-04T18:13:52Z" finished-at="2021-07-04T18:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- GoIbibo.GoIbibo.Searching -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
